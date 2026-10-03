@@ -16,7 +16,7 @@ Pretendard 글꼴은 외부 CDN을 사용하므로 같은 글꼴을 표시하려
 
 - [AI Exam Coach — Agent Forge 수상 참조 구현](https://github.com/axfehlerlee/exam-coach-agent-forge)
 - [AI Exam Coach — Daytona 공개 합성 데모](https://github.com/axfehlerlee/exam-coach-daytona-hacksprint-2026-09-19-public)
-- [AI Exam Coach Mini MSA — FastAPI·Docker Compose 실습](https://github.com/axfehlerlee/kant_ax_aws)
+- [AWS 스터디 과제 모음 — 현재 Mini MSA 실습](https://github.com/axfehlerlee/kant_ax_aws)
 - [KANT AX Projects — 선별 수업 결과물](https://github.com/axfehlerlee/kantax_projects)
 
 이 페이지는 포트폴리오 입구입니다. 각 프로젝트의 구현·검증 범위와 실행 방법은 해당 저장소 README를 확인하세요.
